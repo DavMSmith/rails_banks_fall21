@@ -289,6 +289,6 @@
 #       In the account he has payday with a deposit of $200. 
 #       Deposit would be true and into savings. He also has dinner for $30. Deposit would be false and it's coming from his checking account.
 
-NOte: to configure Devise, after adding the gem,  run "bundle exec rails db:create"
-and then "bundle exec rails g devise:install". Then "bundle esec rails g devise User", where "User" is replaced with whatever we want authenticated. 
-  Most times, with our projects, we will want the User to be authenticated. 
+# NOte: to configure Devise, after adding the gem,  run "bundle exec rails db:create"
+# and then "bundle exec rails g devise:install". Then "bundle esec rails g devise User", where "User" is replaced with whatever we want authenticated. 
+#   Most times, with our projects, we will want the User to be authenticated. 
